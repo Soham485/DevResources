@@ -4,3 +4,7 @@
 
 
 header {font-family: 'Lexend',sans-serif;font-weight:500;color:#35FF69;background-color: #121619;font-size: 1.5em;}
+
+#headerIcon {width:5vw;vertical-align: middle;}
+#header {vertical-align: middle;}
+#fixedHeader {position: fixed;width:100vw;top:-3vh;height:13vh;}
