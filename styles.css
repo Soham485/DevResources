@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Lexend:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 * {background-color: #121619;}
+
+p {font-family: 'Poppins',sans-serif;font-weight: 400;color: white;}
 
 
 header {font-family: 'Lexend',sans-serif;font-weight:500;color:#35FF69;background-color: #121619;font-size: 1.5em;}
