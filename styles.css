@@ -2,17 +2,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
-* {background-color: #121619;color: white;}
+* {background-color: #121619;}
 
-p {font-family: 'Poppins',sans-serif;font-weight: 400;}
-h1,h2,h3,h4 {font-family: 'Kanit',sans-serif;font-weight: 400;}
-
-header {font-family: 'Lexend',sans-serif;font-weight:500;color:#35FF69;background-color: #121619;font-size: 1.5em;}
 
 #headerIcon {width:5vw;vertical-align: middle;}
-#header {vertical-align: middle;color: #35FF69;}
-#fixedHeader {position: fixed;width:100vw;top:-3vh;height:13vh;}
+#header {vertical-align: middle;color: #35FF69;font-family: 'Lexend',sans-serif;font-weight:500;background-color: #121619;font-size: 1.5em;}
+#fixedHeader {position: fixed;width:100vw;top:-2vh;height:12vh;}
 
-#fonts-container {display:flex;flex-direction: row;}
-.font-box {padding:4vw;margin:1vw;border:1px solid white;border-radius: 1.5vmax;background-color: #35FF69;}
-h3.font-box{background-color: #35FF69;}
+.site {font-family: 'Poppins',sans-serif;font-weight: 400;text-align: center;color: white;}
+
+.resources {font-family: 'Kanit',sans-serif;font-weight: 400;color: white;}
